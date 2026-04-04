@@ -53,25 +53,21 @@ sudo nmap -sT 192.168.18.144 | tee nmap_sT.txt
 sudo nmap -sS 192.168.18.144 | tee nmap_sS.txt
 sudo nmap -sV 192.168.18.144 | tee nmap_sV.txt
 ```
-[nmap_sA.txt]()
-[nmap_sT.txt]()
-[nmap_sS.txt]()
-[nmap_sV.txt]()
+[nmap_sA.txt](nmap_sA.txt)
+[nmap_sT.txt](nmap_sT.txt)
+[nmap_sS.txt](nmap_sS.txt)
+[nmap_sV.txt](nmap_sV.txt)
 
 
 
 #### 1.2. Снятие логов на защищаемой системе
 
-После выполнения сканов получим события Suricata:
+После выполнения сканов получим события Suricata [fast.log](fast.log) и [eve.json](eve.json):
 ```
 sudo tail -n 50 /var/log/suricata/fast.log
 sudo jq 'select(.event_type=="alert")' /var/log/suricata/eve.json | tail -n 20
 ```
 
-Если jq не установлен:
-```
-sudo tail -n 50 /var/log/suricata/eve.json
-```
 
 Для Fail2Ban:
 ```
