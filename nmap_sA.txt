@@ -1,0 +1,8 @@
+Starting Nmap 7.98 ( https://nmap.org ) at 2026-04-04 14:38 +0000
+Nmap scan report for 192.168.18.144
+Host is up (0.000078s latency).
+All 1000 scanned ports on 192.168.18.144 are in ignored states.
+Not shown: 1000 unfiltered tcp ports (reset)
+MAC Address: 08:00:27:A1:07:E8 (Oracle VirtualBox virtual NIC)
+
+Nmap done: 1 IP address (1 host up) scanned in 0.66 seconds
