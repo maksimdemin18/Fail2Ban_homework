@@ -1,0 +1,50 @@
+2026-04-04 14:01:34,897 fail2ban.observer       [11825]: INFO    Observer stop ... try to end queue 5 seconds
+2026-04-04 14:01:34,924 fail2ban.observer       [11825]: INFO    Observer stopped, 0 events remaining.
+2026-04-04 14:01:34,965 fail2ban.server         [11825]: INFO    Stopping all jails
+2026-04-04 14:01:35,272 fail2ban.actions        [11825]: NOTICE  [sshd] Flush ticket(s) with nftables
+2026-04-04 14:01:35,272 fail2ban.jail           [11825]: INFO    Jail 'sshd' stopped
+2026-04-04 14:01:35,273 fail2ban.database       [11825]: INFO    Connection to database closed.
+2026-04-04 14:01:35,273 fail2ban.server         [11825]: INFO    Exiting Fail2ban
+2026-04-04 14:01:35,397 fail2ban.server         [11957]: INFO    --------------------------------------------------
+2026-04-04 14:01:35,397 fail2ban.server         [11957]: INFO    Starting Fail2ban v1.0.2
+2026-04-04 14:01:35,397 fail2ban.observer       [11957]: INFO    Observer start...
+2026-04-04 14:01:35,399 fail2ban.database       [11957]: INFO    Connected to fail2ban persistent database '/var/lib/fail2ban/fail2ban.sqlite3'
+2026-04-04 14:01:35,400 fail2ban.jail           [11957]: INFO    Creating new jail 'sshd'
+2026-04-04 14:01:35,462 fail2ban.jail           [11957]: INFO    Jail 'sshd' uses systemd {}
+2026-04-04 14:01:35,462 fail2ban.jail           [11957]: INFO    Initiated 'systemd' backend
+2026-04-04 14:01:35,463 fail2ban.filter         [11957]: INFO      maxLines: 1
+2026-04-04 14:01:35,471 fail2ban.filtersystemd  [11957]: INFO    [sshd] Added journal match for: '_SYSTEMD_UNIT=sshd.service + _COMM=sshd'
+2026-04-04 14:01:35,472 fail2ban.filter         [11957]: INFO      maxRetry: 3
+2026-04-04 14:01:35,472 fail2ban.filter         [11957]: INFO      findtime: 600
+2026-04-04 14:01:35,472 fail2ban.actions        [11957]: INFO      banTime: 600
+2026-04-04 14:01:35,472 fail2ban.filter         [11957]: INFO      encoding: UTF-8
+2026-04-04 14:01:35,472 fail2ban.filtersystemd  [11957]: INFO    [sshd] Jail is in operation now (process new journal entries)
+2026-04-04 14:01:35,473 fail2ban.jail           [11957]: INFO    Jail 'sshd' started
+2026-04-04 14:52:58,524 fail2ban.filter         [11957]: INFO    [sshd] Found 192.168.18.142 - 2026-04-04 14:52:58
+2026-04-04 14:52:58,525 fail2ban.filter         [11957]: INFO    [sshd] Found 192.168.18.142 - 2026-04-04 14:52:58
+2026-04-04 14:52:58,525 fail2ban.filter         [11957]: INFO    [sshd] Found 192.168.18.142 - 2026-04-04 14:52:58
+2026-04-04 14:52:58,525 fail2ban.filter         [11957]: INFO    [sshd] Found 192.168.18.142 - 2026-04-04 14:52:58
+2026-04-04 14:52:58,525 fail2ban.filter         [11957]: INFO    [sshd] Found 192.168.18.142 - 2026-04-04 14:52:58
+2026-04-04 14:52:58,525 fail2ban.filter         [11957]: INFO    [sshd] Found 192.168.18.142 - 2026-04-04 14:52:58
+2026-04-04 14:52:58,526 fail2ban.filter         [11957]: INFO    [sshd] Found 192.168.18.142 - 2026-04-04 14:52:58
+2026-04-04 14:52:58,526 fail2ban.filter         [11957]: INFO    [sshd] Found 192.168.18.142 - 2026-04-04 14:52:58
+2026-04-04 14:52:58,526 fail2ban.filter         [11957]: INFO    [sshd] Found 192.168.18.142 - 2026-04-04 14:52:58
+2026-04-04 14:52:58,526 fail2ban.filter         [11957]: INFO    [sshd] Found 192.168.18.142 - 2026-04-04 14:52:58
+2026-04-04 14:52:58,526 fail2ban.filter         [11957]: INFO    [sshd] Found 192.168.18.142 - 2026-04-04 14:52:58
+2026-04-04 14:52:58,674 fail2ban.actions        [11957]: NOTICE  [sshd] Ban 192.168.18.142
+2026-04-04 14:53:00,763 fail2ban.filter         [11957]: INFO    [sshd] Found 192.168.18.142 - 2026-04-04 14:53:00
+2026-04-04 14:53:00,764 fail2ban.filter         [11957]: INFO    [sshd] Found 192.168.18.142 - 2026-04-04 14:53:00
+2026-04-04 14:53:00,764 fail2ban.filter         [11957]: INFO    [sshd] Found 192.168.18.142 - 2026-04-04 14:53:00
+2026-04-04 14:53:00,764 fail2ban.filter         [11957]: INFO    [sshd] Found 192.168.18.142 - 2026-04-04 14:53:00
+2026-04-04 14:53:00,764 fail2ban.filter         [11957]: INFO    [sshd] Found 192.168.18.142 - 2026-04-04 14:53:00
+2026-04-04 14:53:00,764 fail2ban.filter         [11957]: INFO    [sshd] Found 192.168.18.142 - 2026-04-04 14:53:00
+2026-04-04 14:53:00,764 fail2ban.filter         [11957]: INFO    [sshd] Found 192.168.18.142 - 2026-04-04 14:53:00
+2026-04-04 14:53:00,764 fail2ban.filter         [11957]: INFO    [sshd] Found 192.168.18.142 - 2026-04-04 14:53:00
+2026-04-04 14:53:00,764 fail2ban.filter         [11957]: INFO    [sshd] Found 192.168.18.142 - 2026-04-04 14:53:00
+2026-04-04 14:53:00,765 fail2ban.filter         [11957]: INFO    [sshd] Found 192.168.18.142 - 2026-04-04 14:53:00
+2026-04-04 14:53:00,765 fail2ban.filter         [11957]: INFO    [sshd] Found 192.168.18.142 - 2026-04-04 14:53:00
+2026-04-04 14:53:00,765 fail2ban.filter         [11957]: INFO    [sshd] Found 192.168.18.142 - 2026-04-04 14:53:00
+2026-04-04 14:53:00,765 fail2ban.filter         [11957]: INFO    [sshd] Found 192.168.18.142 - 2026-04-04 14:53:00
+2026-04-04 14:53:00,765 fail2ban.filter         [11957]: INFO    [sshd] Found 192.168.18.142 - 2026-04-04 14:53:00
+2026-04-04 14:53:00,765 fail2ban.filter         [11957]: INFO    [sshd] Found 192.168.18.142 - 2026-04-04 14:53:00
+2026-04-04 14:53:00,765 fail2ban.filter         [11957]: INFO    [sshd] Found 192.168.18.142 - 2026-04-04 14:53:00

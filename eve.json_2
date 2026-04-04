@@ -1,0 +1,20 @@
+    "gid": 1,
+    "signature_id": 1000002,
+    "rev": 1,
+    "signature": "LOCAL TCP scan test",
+    "category": "",
+    "severity": 3
+  },
+  "direction": "to_server",
+  "flow": {
+    "pkts_toserver": 9,
+    "pkts_toclient": 1,
+    "bytes_toserver": 666,
+    "bytes_toclient": 102,
+    "start": "2026-04-04T14:53:02.273670+0000",
+    "src_ip": "192.168.18.142",
+    "dest_ip": "192.168.18.144",
+    "src_port": 46898,
+    "dest_port": 22
+  }
+}

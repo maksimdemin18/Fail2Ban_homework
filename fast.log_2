@@ -1,0 +1,50 @@
+04/04/2026-14:53:04.119683  [**] [1:1000002:1] LOCAL TCP scan test [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.18.142:46864 -> 192.168.18.144:22
+04/04/2026-14:53:04.119683  [**] [1:1000002:1] LOCAL TCP scan test [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.18.142:46878 -> 192.168.18.144:22
+04/04/2026-14:53:04.119683  [**] [1:1000002:1] LOCAL TCP scan test [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.18.142:46880 -> 192.168.18.144:22
+04/04/2026-14:53:04.119683  [**] [1:1000002:1] LOCAL TCP scan test [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.18.142:46862 -> 192.168.18.144:22
+04/04/2026-14:53:04.369506  [**] [1:1000002:1] LOCAL TCP scan test [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.18.142:46898 -> 192.168.18.144:22
+04/04/2026-14:53:04.369506  [**] [1:1000002:1] LOCAL TCP scan test [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.18.142:46918 -> 192.168.18.144:22
+04/04/2026-14:53:04.369506  [**] [1:1000002:1] LOCAL TCP scan test [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.18.142:46896 -> 192.168.18.144:22
+04/04/2026-14:53:04.369506  [**] [1:1000002:1] LOCAL TCP scan test [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.18.142:46916 -> 192.168.18.144:22
+04/04/2026-14:53:05.273305  [**] [1:1000002:1] LOCAL TCP scan test [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.18.142:46880 -> 192.168.18.144:22
+04/04/2026-14:53:05.274201  [**] [1:1000002:1] LOCAL TCP scan test [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.18.142:46862 -> 192.168.18.144:22
+04/04/2026-14:53:05.273305  [**] [1:1000002:1] LOCAL TCP scan test [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.18.142:46878 -> 192.168.18.144:22
+04/04/2026-14:53:05.273305  [**] [1:1000002:1] LOCAL TCP scan test [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.18.142:46864 -> 192.168.18.144:22
+04/04/2026-14:53:05.392919  [**] [1:1000002:1] LOCAL TCP scan test [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.18.142:46918 -> 192.168.18.144:22
+04/04/2026-14:53:05.392920  [**] [1:1000002:1] LOCAL TCP scan test [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.18.142:46898 -> 192.168.18.144:22
+04/04/2026-14:53:05.392920  [**] [1:1000002:1] LOCAL TCP scan test [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.18.142:46916 -> 192.168.18.144:22
+04/04/2026-14:53:05.392920  [**] [1:1000002:1] LOCAL TCP scan test [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.18.142:46896 -> 192.168.18.144:22
+04/04/2026-14:53:05.586899  [**] [1:2210054:1] SURICATA STREAM excessive retransmissions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.18.142:54758 -> 192.168.18.144:22
+04/04/2026-14:53:05.782238  [**] [1:2210054:1] SURICATA STREAM excessive retransmissions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.18.142:54726 -> 192.168.18.144:22
+04/04/2026-14:53:06.032624  [**] [1:2210054:1] SURICATA STREAM excessive retransmissions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.18.142:54710 -> 192.168.18.144:22
+04/04/2026-14:53:06.032624  [**] [1:2210054:1] SURICATA STREAM excessive retransmissions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.18.142:54692 -> 192.168.18.144:22
+04/04/2026-14:53:06.032624  [**] [1:2210054:1] SURICATA STREAM excessive retransmissions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.18.142:54696 -> 192.168.18.144:22
+04/04/2026-14:53:06.032624  [**] [1:2210054:1] SURICATA STREAM excessive retransmissions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.18.142:54764 -> 192.168.18.144:22
+04/04/2026-14:53:06.032624  [**] [1:2210054:1] SURICATA STREAM excessive retransmissions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.18.142:54718 -> 192.168.18.144:22
+04/04/2026-14:53:06.300250  [**] [1:1000002:1] LOCAL TCP scan test [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.18.142:46864 -> 192.168.18.144:22
+04/04/2026-14:53:06.300250  [**] [1:1000002:1] LOCAL TCP scan test [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.18.142:46878 -> 192.168.18.144:22
+04/04/2026-14:53:06.300250  [**] [1:1000002:1] LOCAL TCP scan test [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.18.142:46862 -> 192.168.18.144:22
+04/04/2026-14:53:06.407466  [**] [1:1000002:1] LOCAL TCP scan test [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.18.142:46918 -> 192.168.18.144:22
+04/04/2026-14:53:06.407466  [**] [1:1000002:1] LOCAL TCP scan test [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.18.142:46898 -> 192.168.18.144:22
+04/04/2026-14:53:06.411030  [**] [1:1000002:1] LOCAL TCP scan test [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.18.142:46896 -> 192.168.18.144:22
+04/04/2026-14:53:06.411030  [**] [1:1000002:1] LOCAL TCP scan test [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.18.142:46916 -> 192.168.18.144:22
+04/04/2026-14:53:07.410065  [**] [1:1000002:1] LOCAL TCP scan test [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.18.142:46862 -> 192.168.18.144:22
+04/04/2026-14:53:07.410065  [**] [1:1000002:1] LOCAL TCP scan test [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.18.142:46878 -> 192.168.18.144:22
+04/04/2026-14:53:07.410066  [**] [1:1000002:1] LOCAL TCP scan test [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.18.142:46864 -> 192.168.18.144:22
+04/04/2026-14:53:07.518387  [**] [1:1000002:1] LOCAL TCP scan test [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.18.142:46918 -> 192.168.18.144:22
+04/04/2026-14:53:07.518387  [**] [1:1000002:1] LOCAL TCP scan test [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.18.142:46898 -> 192.168.18.144:22
+04/04/2026-14:53:07.518991  [**] [1:1000002:1] LOCAL TCP scan test [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.18.142:46916 -> 192.168.18.144:22
+04/04/2026-14:53:07.518991  [**] [1:1000002:1] LOCAL TCP scan test [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.18.142:46896 -> 192.168.18.144:22
+04/04/2026-14:53:09.417272  [**] [1:1000002:1] LOCAL TCP scan test [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.18.142:46864 -> 192.168.18.144:22
+04/04/2026-14:53:09.417273  [**] [1:1000002:1] LOCAL TCP scan test [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.18.142:46878 -> 192.168.18.144:22
+04/04/2026-14:53:09.678550  [**] [1:1000002:1] LOCAL TCP scan test [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.18.142:46918 -> 192.168.18.144:22
+04/04/2026-14:53:09.678550  [**] [1:1000002:1] LOCAL TCP scan test [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.18.142:46896 -> 192.168.18.144:22
+04/04/2026-14:53:09.678550  [**] [1:1000002:1] LOCAL TCP scan test [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.18.142:46916 -> 192.168.18.144:22
+04/04/2026-14:53:09.678550  [**] [1:1000002:1] LOCAL TCP scan test [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.18.142:46898 -> 192.168.18.144:22
+04/04/2026-14:53:13.460555  [**] [1:1000002:1] LOCAL TCP scan test [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.18.142:46878 -> 192.168.18.144:22
+04/04/2026-14:53:13.460555  [**] [1:1000002:1] LOCAL TCP scan test [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.18.142:46864 -> 192.168.18.144:22
+04/04/2026-14:53:13.704184  [**] [1:1000002:1] LOCAL TCP scan test [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.18.142:46916 -> 192.168.18.144:22
+04/04/2026-14:53:13.704184  [**] [1:1000002:1] LOCAL TCP scan test [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.18.142:46896 -> 192.168.18.144:22
+04/04/2026-14:53:14.106954  [**] [1:1000002:1] LOCAL TCP scan test [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.18.142:46898 -> 192.168.18.144:22
+04/04/2026-14:53:14.106954  [**] [1:1000002:1] LOCAL TCP scan test [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.18.142:46918 -> 192.168.18.144:22
+04/04/2026-14:53:22.279025  [**] [1:1000002:1] LOCAL TCP scan test [**] [Classification: (null)] [Priority: 3] {TCP} 192.168.18.142:46898 -> 192.168.18.144:22
